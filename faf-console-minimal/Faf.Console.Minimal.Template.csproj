@@ -8,6 +8,8 @@
     <Authors>Firefly AI Flow Platform</Authors>
     <Description>Minimal console boilerplate for hypothesis testing.</Description>
     <PackageTags>dotnet-new;templates;console;faf</PackageTags>
+    <RepositoryUrl>https://github.com/Kotrecon/faf-console-templates</RepositoryUrl>
+<RepositoryType>git</RepositoryType>
     <TargetFramework>netstandard2.0</TargetFramework>
     <IncludeContentInPack>true</IncludeContentInPack>
     <IncludeBuildOutput>false</IncludeBuildOutput>
