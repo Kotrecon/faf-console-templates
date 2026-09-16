@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json.schemastore.org/template",
+  "author": "Firefly AI Flow Platform",
+  "classifications": ["Console", "Sandbox"],
+  "identity": "Faf.Console.Minimal",
+  "name": "FAF Console Minimal",
+  "shortName": "faf-console-minimal",
+  "sourceName": "Faf.Console.Minimal",
+  "preferNameDirectory": true,
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}
